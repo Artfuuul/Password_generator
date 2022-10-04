@@ -34,3 +34,5 @@ def generate_password(pwd_len, chars):
 
 for _ in range(pwd_quantity):
     generate_password(pwd_len, chars)
+
+    #rofl
